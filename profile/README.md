@@ -7,4 +7,4 @@ Org mode for Zed, VS Code, Obsidian and your AI agents, from one shared core.
 
 **Status:** in development. The first public release is on its way.
 
-Built by [Silviu Bojica](https://silviu.bojica.com).
+Built by [Silviu Bojica](https://silviu.bojica.com), with AI agents as the crew.
