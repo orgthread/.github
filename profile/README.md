@@ -5,7 +5,7 @@
 
 **AI agents edit your notes. You set the rules.**
 
-orgthread sits between AI agents and your Org and Markdown files. Every change is checked against your rules, logged, and can be undone.
+With orgthread in between, AI agents never touch your Markdown or Org files directly. Every change is checked against your rules, logged, and can be undone.
 
 **Status:** in development, not released yet.
 
