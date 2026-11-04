@@ -3,8 +3,12 @@
   <img alt="orgthread: One Org. Your tools." src="./orgthread-logo-horizontal.png" width="480">
 </picture>
 
-Org mode for Zed, VS Code, Obsidian and your AI agents, from one shared core.
+**AI agents edit your notes. You set the rules.**
 
-**Status:** in development. The first public release is on its way.
+orgthread sits between AI agents and your Org and Markdown files. Every change is checked against your rules, logged, and can be undone.
+
+**Status:** in development, not released yet.
+
+More: [orgthread.dev](https://orgthread.dev)
 
 Built by [Silviu Bojica](https://silviu.bojica.com), with AI agents as the crew.
